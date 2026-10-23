@@ -1,0 +1,6 @@
+{
+  "name": "DSA Practice Tracker",
+  "description": "An interactive application that tracks solved LeetCode problems, analyzes weaknesses, designs practice roadmaps, offers spaced repetition review alerts, and calculates career placement chances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
